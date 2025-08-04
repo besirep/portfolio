@@ -1,0 +1,18 @@
+// {
+//   "folders": [],
+//   "settings": {
+//     "files.associations": {
+//       "ostream": "cpp",
+//       "iostream": "cpp",
+//       "iomanip": "cpp"
+//     },
+//     "liveServer.settings.multiRootWorkspaceName": "Tourism Information System Final_Submission",
+//     "java.project.sourcePaths": [""],
+//     "java.debug.settings.onBuildFailureProceed": true,
+//     "liveServer.settings.port": 5501
+//   },
+//   "launch": {
+//     "version": "0.2.0",
+//     "configurations": []
+//   }
+// }
